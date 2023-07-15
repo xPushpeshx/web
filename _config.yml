@@ -1,0 +1,25 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast"
+title: "Ben Eyal's Website"
+title_separator: "-"
+name: "Ben Eyal"
+
+atom_feed:
+  hide: true
+
+plugins:
+  - jekyll-include-cache
+  - jemoji
+
+author:
+  name: "Ben Eyal"
+  avatar: "/assets/images/profile_small.png"
+  bio: "Engineer @ AI2, working on my PhD in Natural Language Processing @ BGU"
+  location: Rehovot, Israel
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/beneyal"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/beneyal/"

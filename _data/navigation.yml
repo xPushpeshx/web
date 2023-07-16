@@ -1,7 +1,7 @@
 main:
-  - title: Publications
-    url: /publications/
-  - title: Teaching
-    url: /teaching/
+  - title: Projects
+    url: /projects/
+  - title: Miscellaneous
+    ur: /exp/
   - title: Resume
-    url: /assets/docs/Ben_Eyal_Resume_2022.pdf
+    url: /assets/docs/pushpesh_resume.pdf

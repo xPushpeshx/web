@@ -14,7 +14,7 @@ I'm Pushpesh, a B.tech Computer Science student at Shri Mata Vaisno Devi Univers
 
 My interests are in Computer Vision, LLM, Bash Scripting and 
 
-Under the [Project](projects/) tab, you'll find some of my supplementary material for courses I lectured/TA'ed.
+Under the [Project](projects/) tab, you'll find some of my projects that i have recently done.
 
 Under the [Misc](exp/) tab, you'll find Miscellaneous stuff I've done.
 

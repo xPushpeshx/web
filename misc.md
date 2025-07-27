@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Miscellaneous
+title: Experience
 author_profile: true
 permalink: /exp/
 ---

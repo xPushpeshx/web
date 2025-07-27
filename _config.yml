@@ -14,12 +14,12 @@ plugins:
 author:
   name: "Pushpesh Gokul Pant"
   avatar: "/assets/images/profile_small.png"
-  bio: "Intern Programmer at SMVDU RP-126"
-  location: Katra, India
+  bio: "Masters Student at IIT Guwahati"
+  location: Assam, India
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xPushpeshx"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/pushpesh-gokul-pant-807023202/"
+      url: "https://in.linkedin.com/in/pushpesh-gokul-pant"
